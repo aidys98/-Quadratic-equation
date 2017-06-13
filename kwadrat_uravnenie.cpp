@@ -20,7 +20,7 @@ cout << "D="<< D << endl;
 cout << "x1=" << x1 << endl; 
 cout << "x2=" << x2 << endl; 
 } 
-if (D==0) { 
+if (D == 0) { 
 x1=-b/(2*a); 
 cout << "D=0" << endl; 
 cout << "x=" << x1 << endl; 
